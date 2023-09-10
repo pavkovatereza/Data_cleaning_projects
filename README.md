@@ -1,4 +1,4 @@
-## Operations dataset cleaning project
+## 🧹 Operations dataset cleaning project
 
 This project was focused on cleaning operations dataset created by Annie Nelson and available to download via [her website](https://anniesanalytics-datasets.carrd.co). 
 
